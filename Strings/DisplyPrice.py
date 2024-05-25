@@ -1,8 +1,8 @@
 
-item = input('Enter The Item')
-price = input('Enter price')
+item = input('chicken pizza')
+price = input('300')
 
-total_len = len(item) + len(price)
+total_len = len(chicken pizza) + len(300)
 
 print(total_len)
 
